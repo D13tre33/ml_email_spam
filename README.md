@@ -1,4 +1,4 @@
-# Hi eeryone, here's the description of my project.
+# Hi everyone, here's the description of my project.
 
 ## Importing Libraries
 
